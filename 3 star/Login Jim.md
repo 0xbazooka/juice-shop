@@ -6,4 +6,5 @@ get Jim's email from either:
 
 
 we're missing the pass but technically we don't need it we're hackers :D  sooo we'll break through with SQLI
+
 the payload: `jim@juice-sh.op' --` ,basically commenting out the password field aslan
